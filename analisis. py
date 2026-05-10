@@ -5,3 +5,5 @@ print (nombre)
 edad = 45
 if edad >= 18:
 print("Eres mayor de edad")
+ciudad = input("¿En qué ciudad vives? ")
+print(ciudad)

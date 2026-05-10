@@ -3,5 +3,5 @@ print("Estoy aprendiendo Python paso a paso")
 nombre="Joel"
 print(nombre)
 edad=45
-if edad >=18:
+if edad >= 18:
 print("Eres mayor de edad")

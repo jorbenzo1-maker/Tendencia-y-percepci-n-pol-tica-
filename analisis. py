@@ -1,2 +1,4 @@
 print("Hola Joel, este es mi primer archivo Python en GitHub")
 print("Estoy aprendiendo Python paso a paso")
+nombre="Joel"
+print(nombre)

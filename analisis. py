@@ -1,7 +1,7 @@
 print("Hola Joel, este es mi primer archivo Python en GitHub")
 print("Estoy aprendiendo Python paso a paso")
 nombre="Joel"
-print(nombre)
-edad=45
+print (nombre)
+edad = 45
 if edad >= 18:
-    print("Eres mayor de edad")
+   print("Eres mayor de edad")
